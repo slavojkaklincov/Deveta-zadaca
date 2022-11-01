@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: bold;
+    color: white;
+    border-radius: 8px;
+    width: 150px;
+    height: 40px;
+
+}
+
+.prvi{
+    background-color: rgb(6, 60, 6);    
+}
+.drugi{
+    background-color: rgb(24, 106, 79);   
+}
+.treci{
+    background-color: khaki;
+}
+.cetvrti{
+    background-color: rgb(80, 134, 80);
+}
+.peti{
+    background-color: rgb(192, 77, 77);
+}
+.sesti{
+    background-color: rgb(217, 137, 32);
+}
+.sedmi{
+    background-color: gray;
+}
+.osmi{
+    background-color: cornflowerblue;
+}
+.deveti{
+    background-color: darkolivegreen;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: darkgoldenrod;
+ }
